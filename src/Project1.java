@@ -27,7 +27,7 @@ public class Project1 {
                         "A large dragon jumps out in front of you! He opens his jaws and...\n"+
                         "Gobbles you down in one bite!");
             }else if (input.equals("2"))
-            {
+            {//
                 System.out.println("You enter the cave, and the dragon residing within will give you a gift! The gift of knowledge! \nHe tells you to ask him a question. After a moment you come up with quesiton: ");
                 System.out.println("\"What is the answer to life, the universe and everything?\"");
                 System.out.println("\"42\" says the dragon.");
