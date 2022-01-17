@@ -15,7 +15,7 @@ public class Project1 {
         System.out.println("Enter number 1 or 2. Enter 'Q' to quit game.");
         String input = getInput();
         if (input.equals("1") || input.equals("2"))
-        {//
+        {
             if (input.equals("1"))
             {
                 System.out.println("You approach the cave.../n"+
