@@ -31,7 +31,7 @@ public class Project1 {
         }else if(input.equals("Q") || input.equals("q"))
             System.out.println("The game is now over. No dragons, caves, or treasure for you.");
         else
-            System.out.println("That is not a valid output. Try again, or enter 'Q' to quit the game.");
+            System.out.println("That is not a valid output. The game is now over. No dragons, caves, or treasure for you.");
     }
 
     public static String getInput()
